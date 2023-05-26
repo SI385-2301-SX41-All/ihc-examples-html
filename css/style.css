@@ -1,0 +1,47 @@
+* {
+    background-color: #ffffff;
+}
+h1, h2, h3 {
+    color: #371f17;
+}
+h4, h5, h6 {
+    color: #c76838;
+}
+p {
+    color: #8d3113;
+}
+
+a {
+    text-decoration: none;
+    color: #c76838;
+}
+.text-small {
+  font-size: 10px;
+}
+.text-big {
+    font-size: 30px;
+}
+
+#titulo-3 {
+    border: solid 2px #371f17;
+    margin: 40px;
+}
+td, th {
+    border: solid 1px #371f17;
+    padding: 5px;
+    margin: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
